@@ -1,4 +1,4 @@
-# KCP_CPP_DEMO
+# KCP_DEMO
 windows下的基于KCP 的UDP传输demo
 
 使用方法：
